@@ -8,4 +8,4 @@ pip install gtts
 
 pip install googletrans
 
-<image src="img/output.png">
+Output available in img folder named "output.png"
