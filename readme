@@ -1,0 +1,11 @@
+Language translator using python
+
+Just add the sentence you want to translate select the language to be translated in and click submit
+
+Installation
+
+pip install gtts
+
+pip install googletrans
+
+Output:
